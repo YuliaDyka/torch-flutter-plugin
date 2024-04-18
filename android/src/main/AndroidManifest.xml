@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yulia.dyka.torch_flutter_plugin">
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.FLASHLIGHT"/>
+    <uses-feature android:name="android.hardware.Camera"/>
+    <uses-feature android:name="android.hardware.Camera.flash"/>
+
+</manifest>
